@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lookthatsmarii
+- 👋 Hi, I’m @lookthatsmaria
 - 👀 I’m interested in data science and learning new programming languages
 - 🌱 I’m currently learning python
 
